@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - positionWalker1
+  - positionWalker2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - Enemy
+  - ground
+  - 
+  - Player
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3062411539
+    locked: 0
+  - name: Enemy
+    uniqueID: 514130593
+    locked: 0
+  - name: Player
+    uniqueID: 365175951
+    locked: 0
+  - name: Effects
+    uniqueID: 3552344475
+    locked: 0
